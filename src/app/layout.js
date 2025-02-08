@@ -7,6 +7,7 @@ import Navbar from "@/components/elements/Navbar";
 import Searchbox from "@/components/modules/Searchbox";
 
 const inter = Inter({ subsets: ["latin"] });
+export const runtime = "edge";
 
 export const metadata = {
   title: "Imdb-movie",
