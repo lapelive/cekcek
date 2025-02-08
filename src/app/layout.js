@@ -12,6 +12,7 @@ export const metadata = {
   title: "Imdb-movie",
   description: "Search movies",
 };
+export const runtime = "edge";
 
 export default function RootLayout({ children }) {
   return (
